@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+title: Dev blog | sizeof.eu
+description: Blog de dev français.
+
+exclude : [ README.md , CNAME ]
